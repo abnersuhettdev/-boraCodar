@@ -48,6 +48,7 @@ body * {
 #top:hover {
   background-color: #643bbc83;
   border-radius: 0.8rem;
+  cursor: pointer;
 }
 
 #user-info img {
