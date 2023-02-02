@@ -14,7 +14,8 @@
 <br>
 
 <p align="center">
-  <img alt="Gif do Chat" src="./imgs/chat.gif" width="100%">
+  <img alt="Gif do Chat" src="./imgs/chat.gif" width="100%"
+  height="300px">
 </p>
 
 ## 🚀 Tecnologias
