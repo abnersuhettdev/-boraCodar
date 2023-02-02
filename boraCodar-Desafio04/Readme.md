@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <img alt="Tabela de Botão" src="./cursores/tabela.JPG" width="100%">
+  <img alt="Gif do Chat" src="./imgs/chat.gif" width="100%">
 </p>
 
 ## 🚀 Tecnologias
